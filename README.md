@@ -21,3 +21,5 @@ Hình ảnh được tham khảo từ wikipedia.
 
 ## Triển khai
 Triển khai thông qua GitHub Pages.
+
+https://nureu-u.github.io/Tank-History/
